@@ -1,1 +1,5 @@
-Please reach out to: http://just-sampath.github.io/sampath.github.io
+# Thank you for visiting my profile!
+
+## This portfolio is currently build in progress, To check me out, please reach out
+
+# [https://justsampath.me/portfolio-old/](Here)
