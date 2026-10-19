@@ -1,5 +1,3 @@
-# Thank you for visiting my profile!
+# just-sampath.github.io
 
-## This portfolio is currently build in progress, To check me out, please reach out
-
-# [Here](https://justsampath.me/portfolio-old/)
+Redirects to my portfolio at [just-sampath.in](https://just-sampath.in).
